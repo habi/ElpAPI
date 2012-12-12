@@ -1,0 +1,10 @@
+
+Wellcome to ElpAPI the python API for the Elphel cameras
+
+this API serves the purpose of helping developers create applications that use the Elphel camera.
+in this repository there are two kinds of script, the scripts, and the meta scripts,
+
+scripts are the code that use the matascripts of the API, and the metadcripts are the code that conforms the API
+
+the core of the API is in the matascript ElpAPI.py, and autosetup.py is the script that autosetups the camera,
+if you want to know how it works you might chek both of those scripts
