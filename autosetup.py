@@ -10,7 +10,7 @@ v 2.0
 
 import os
 import xml.etree.ElementTree as ElTree
-import ElpAPI, utils
+import ElpAPI
 from msg import print_CASUAL, print_ERROR, print_DEBUG
 #import autoKillSwitch, autoResolution, autoColour #TODO not yet, not yet
 
